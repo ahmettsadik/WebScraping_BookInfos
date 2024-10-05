@@ -15,15 +15,14 @@ This project is a web scraper for the [Books to Scrape](https://books.toscrape.c
 - BeautifulSoup4
 - pandas
 - requests
-- Chrome WebDriver
 
 ## Installation
 
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/book-scraper.git
-    cd book-scraper
+    git clone https://github.com/ahmettsadik/KitapProje.git
+    cd KitapProje
     ```
 
 2. Install the required Python packages:
@@ -31,8 +30,6 @@ This project is a web scraper for the [Books to Scrape](https://books.toscrape.c
     ```sh
     pip install -r requirements.txt
     ```
-
-3. Download the Chrome WebDriver and place it in a directory included in your system's PATH. You can download it from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
 
 ## Usage
 
@@ -93,6 +90,3 @@ Fetches the book links from all pages of a given category.
 **Returns:**
 - A list of book links.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
