@@ -21,8 +21,8 @@ This project is a web scraper for the [Books to Scrape](https://books.toscrape.c
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/ahmettsadik/KitapProje.git
-    cd KitapProje
+    git clone (https://github.com/ahmettsadik/WebScrapping_BookInfos)
+    cd WebScrapping_BookInfos
     ```
 
 2. Install the required Python packages:
